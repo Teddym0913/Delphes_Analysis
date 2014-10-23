@@ -1,0 +1,19 @@
+//---------------------------------
+//
+//    Basic_Cuts_Out.cpp
+//    Created by Teddym at 14-9-18
+//
+//    Version 1.0.0
+//    First Version
+//
+//--------------------------------
+
+
+#define _Basic_Cuts_Out_cxx
+#include "Basic_Cuts_Out.h"
+
+int Basic_Cuts_Out(TFile* TF, TTree* TT, TChain* TC, Delphes* Del)
+{
+
+}
+
